@@ -110,12 +110,3 @@ This ensures correctness for large synthetic datasets used in ML evaluation.
 - Visualization-driven sanity checks before training
 - Educational demonstrations of structured data
 
----
-
-## Non-Goals
-
-- Physical simulation
-- Modeling real-world systems
-- Claims about fundamental constants or physics
-
-This is a **data visualization and tooling project**, not a scientific theory.
